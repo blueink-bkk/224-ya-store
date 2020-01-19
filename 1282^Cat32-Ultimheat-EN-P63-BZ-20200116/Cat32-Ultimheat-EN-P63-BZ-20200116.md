@@ -2,8 +2,8 @@
 article_id:  BZ
 img:  Cat32-Ultimheat-EN-P63-BZ-20200116.jpg
 pdf:  Cat32-Ultimheat-EN-P63-BZ-20200116.pdf
-format:  diva-v1
-sku:  Type BZ
+format: diva-v1
+sku: Type BZ
 ---
 # Ceramic cable outlets
 
